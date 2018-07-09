@@ -1,0 +1,8 @@
+io\apache\redis\session\Serializer.class
+io\apache\redis\session\RedisSessionManager.class
+io\apache\redis\session\DeserializedSessionContainer.class
+io\apache\redis\session\JavaSerializer.class
+io\apache\redis\session\RedisSessionManager$SessionPersistPolicy.class
+io\apache\redis\session\RedisSessionHandlerValve.class
+io\apache\redis\session\SessionSerializationMetadata.class
+io\apache\redis\session\RedisSession.class
